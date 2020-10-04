@@ -1,5 +1,5 @@
 name: Hello Testing
-# This workflow is triggered on pushes to the repository.
+# This workflow is triggered on pushes to the repository v1.
 on: [push]
 
 jobs:
